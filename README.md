@@ -4,7 +4,7 @@ Benvinguts al festival internacional de **musica** i cultura
 
 ## Artistes Confirmats
 * Shakira
-*Coldplay
+* Coldplay
 * Manu Chao
 *Rosalia
 
