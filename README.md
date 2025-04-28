@@ -26,7 +26,7 @@ VIP|120€
 
 ## Normativa
 - No es permet l'entrada d'aliments de fora
--Zones especials per a fumadors
+- Zones especials per a fumadors
 -Accés adaptat per a persones amb mobilitat reduïda
 
 ## Com arribar
