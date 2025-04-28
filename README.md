@@ -6,7 +6,7 @@ Benvinguts al festival internacional de **musica** i cultura
 * Shakira
 * Coldplay
 * Manu Chao
-*Rosalia
+* Rosalia
 
 ## Dates i Ubicacions
 1) Barcelona - Juliol 12
