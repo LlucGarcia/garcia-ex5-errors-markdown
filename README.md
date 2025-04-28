@@ -38,5 +38,5 @@ Bus: Línies 24, 39, 67
 *Hidratació constant
 
 ## Contacte
-Email oficial: **info@ritmesdelmon.com*
+Email oficial: **info@ritmesdelmon.com**
 
