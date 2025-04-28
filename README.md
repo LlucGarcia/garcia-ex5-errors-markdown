@@ -24,7 +24,7 @@ Benvinguts al festival internacional de **musica** i cultura
 General|50€
 VIP|120€
 
-##Normativa
+## Normativa
 -No es permet l'entrada d'aliments de fora
 -Zones especials per a fumadors
 -Accés adaptat per a persones amb mobilitat reduïda
