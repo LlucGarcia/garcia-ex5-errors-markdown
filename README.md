@@ -35,7 +35,7 @@ Bus: Línies 24, 39, 67
 
 ## Suggeriments
 * Portar gorra i protecció solar
-*Hidratació constant
+* Hidratació constant
 
 ## Contacte
 Email oficial: **info@ritmesdelmon.com**
