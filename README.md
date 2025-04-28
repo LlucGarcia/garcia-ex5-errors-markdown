@@ -8,7 +8,7 @@ Benvinguts al festival internacional de **musica** i cultura
 * Manu Chao
 *Rosalia
 
-##Dates i Ubicacions
+## Dates i Ubicacions
 1) Barcelona - Juliol 12
 2)Madrid - Agost 5
 3)Lisboa - Agost 20
