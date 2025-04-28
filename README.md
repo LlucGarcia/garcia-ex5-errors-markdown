@@ -13,7 +13,7 @@ Benvinguts al festival internacional de **musica** i cultura
 2)Madrid - Agost 5
 3)Lisboa - Agost 20
 
-##Activitats Especials
+## Activitats Especials
 - Taller de dansa
 - Sessions de DJs
 - Gastronomia internacional
