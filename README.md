@@ -29,7 +29,7 @@ VIP|120€
 -Zones especials per a fumadors
 -Accés adaptat per a persones amb mobilitat reduïda
 
-##Com arribar
+## Com arribar
 Metro: L3
 Bus: Línies 24, 39, 67
 
