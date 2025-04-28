@@ -11,7 +11,7 @@ Benvinguts al festival internacional de **musica** i cultura
 ## Dates i Ubicacions
 1) Barcelona - Juliol 12
 2) Madrid - Agost 5
-3)Lisboa - Agost 20
+3) Lisboa - Agost 20
 
 ## Activitats Especials
 - Taller de dansa
