@@ -18,7 +18,7 @@ Benvinguts al festival internacional de **musica** i cultura
 - Sessions de DJs
 - Gastronomia internacional
 
-##Preus
+## Preus
 |Tipus d'entrada|Preu
 |---|---
 General|50€
