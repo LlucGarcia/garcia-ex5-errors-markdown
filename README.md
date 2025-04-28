@@ -1,6 +1,6 @@
 # Festival de Musica Ritmes del Món
 
-Benvinguts al festival internacional de **musica* i cultura
+Benvinguts al festival internacional de **musica** i cultura
 
 ##Artistes Confirmats
 * Shakira
