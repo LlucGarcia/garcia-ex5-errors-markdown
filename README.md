@@ -34,7 +34,7 @@ Metro: L3
 Bus: Línies 24, 39, 67
 
 ## Suggeriments
-*Portar gorra i protecció solar
+* Portar gorra i protecció solar
 *Hidratació constant
 
 ## Contacte
